@@ -17,5 +17,6 @@ public class App
         Accumulator acc = new Accumulator();
         System.out.println("The sum of 3 and 7 is: ");
         System.out.println(acc.sum(3,7));
+
     }
 }
